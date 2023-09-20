@@ -8,7 +8,7 @@
 
 ## Come and check out our [Blog](https://www.uktech.com.br/bloguk/).
 
-Repository containing code samples from various development boards and sensors.#
+Repository containing code samples from various development boards and sensors.
 
 ---
 
