@@ -14,4 +14,4 @@ Repository containing code samples from various development boards and sensors.#
 
 ## Venha conhecer nosso [Blog](https://www.uktech.com.br/bloguk/).
 
-Repositório contendo amostra de código de diferentes placas de desenvolvimento e sensores.
+Repositório contendo amostra de código de várias placas de desenvolvimento e sensores.
