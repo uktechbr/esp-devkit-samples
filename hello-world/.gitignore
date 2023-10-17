@@ -1,0 +1,37 @@
+# Ignorar arquivos gerados pelo CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+build/
+sdkconfig
+sdkconfig.old
+partition_table/
+project.ld
+components/
+esp-idf/
+CMakeSettings.json
+sdkconfig.h
+
+# Ignorar arquivos de compilação
+*.o
+*.d
+*.bin
+*.elf
+
+# Ignorar diretórios de saída da compilação
+build/
+
+# Ignorar arquivos temporários
+*.swp
+*~
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar logs de compilação
+*.log
+
+# Ignorar arquivos gerados pelo Visual Studio Code
+.vscode/
+
