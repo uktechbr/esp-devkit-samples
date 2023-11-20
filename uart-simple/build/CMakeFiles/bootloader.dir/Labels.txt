@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/reichert/uart-test/build/CMakeFiles/bootloader
+/home/reichert/uart-test/build/CMakeFiles/bootloader.rule
+/home/reichert/uart-test/build/CMakeFiles/bootloader-complete.rule
+/home/reichert/uart-test/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/reichert/uart-test/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/reichert/uart-test/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/reichert/uart-test/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/reichert/uart-test/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/reichert/uart-test/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/reichert/uart-test/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
